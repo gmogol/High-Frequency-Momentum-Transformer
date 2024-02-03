@@ -1,0 +1,1 @@
+We implement preprocessing of high frequency financial data from NYSE and subsequently forecast using momementum transformer architecture. The architecture is adapted from "Trading with the Momentum Transformer: An Intelligent and Interpretable Architecture" (https://doi.org/10.48550/arXiv.2112.08534) for the case of high frequency trading.
